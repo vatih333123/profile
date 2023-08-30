@@ -108,9 +108,9 @@ box-shadow: inset 20px 20px 60px #cacaca,
                          
                          <img src="https://images.unsplash.com/photo-1588768987479-bcebeefb8a5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" width="100" class="rounded-circle">
 
-                         <h3 class="mt-2">Vatih Miftakhul ulum</h3>
+                         <h3 class="mt-2">Vatih Miftakhul ulum anak sma</h3>
                          <span class="mt-1 clearfix">Student</span>
-                         <small class="mt-4">I am an student from SMK Bhina Karya</small>
+                         <small class="mt-4">I'm an student from SMK Bhina Karya</small>
                          
                          <div class="social-buttons mt-5"> 
                              <button class="neo-button"><i class="fa fa-facebook fa-1x"></i> </button> 
